@@ -1,8 +1,8 @@
 {
-  "tradecar": [
+  "posts": [
     {
       "id": 1,
-      "price": "4321"
+      "title": "hello"
     }
   ],
   "profile": {
